@@ -30,17 +30,17 @@ This project includes:
 ## Setup
 
 1. Clone this repository:
-    ```bash
+    ```
     git clone https://github.com/yourusername/MergeIntervalsProject.git
     ```
    
 2. Navigate to the project directory:
-    ```bash
+    ```
     cd MergeIntervals
     ```
 
 3. Build the project using Maven:
-    ```bash
+    ```
     mvn clean install
     ```
 
@@ -51,6 +51,6 @@ You can run the application by creating a Java class with a `main` method that c
 ## Running Tests
 
 To run the JUnit tests, use the following command:
-    ```bash
+    ```
     mvn test
     ```
