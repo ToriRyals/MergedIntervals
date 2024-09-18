@@ -51,7 +51,6 @@ You can run the application by creating a Java class with a `main` method that c
 ## Running Tests
 
 To run the JUnit tests, use the following command:
-
     ```bash
     mvn test
     ```
