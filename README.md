@@ -54,5 +54,3 @@ To run the JUnit tests, use the following command:
     ```bash
     mvn test
     ```
-
-
